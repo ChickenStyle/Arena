@@ -1,0 +1,49 @@
+joinnpcname: '&3&lJoin Arena'
+leavenpcname: '&e&lLeave Arena'
+boostertitle: '&a&lBooster! Click to collect!'
+boostercollectmessage: '&8|&6&lBlack&e&lTorch&r&8| &fYou collected the booster!'
+boosterdelay: 120
+maxboostersamount: 2
+shopnpcname: '&6&lShop'
+flameprice: 1000
+powerprice: 2000
+knockbackprice: 1000
+sharpnessprice: 3000
+fireaspcetprice: 2500
+regionname: 'arena'
+arenaworld: 'world'
+bettitle: '&fStake: &a%bet%'
+betsubtitle: '&fNew balance: &e%balance%'
+killstreaktitle: '&c%killstreak% &fplayer kill streak!'
+killstreaksubtitle: '&fYour multiplier has increased!'
+cantafford: '&8|&6&lBlack&e&lTorch&r&8| &fYou do not have enough money to make this stake!'
+leavenobet: '&8|&6&lBlack&e&lTorch&r&8| &fTo use this command you have to make some stake!"
+secondenchantmessage: '&8|&6&lBlack&e&lTorch&r&8| &fYou already bought this enchantment!"
+secondbetmessage: '&8|&6&lBlack&e&lTorch&r&8| &fYou already placed a stake!"
+nopermissioncommand: ''
+noentermessage:
+- '&8|&6&lBlack&e&lTorch&r&8| &fYou must place a stake before entering the arena!'
+cooldownmessage:
+- '&8|&6&lBlack&e&lTorch&r&8| &fYou have to wait &a%secondsleft% &fseconds before reentering the arena!'
+deathtitle: '&cYou Died!'
+deathsubtitle: '&fWhy not try again?'
+getbettitle: '&aYou Survived!'
+getbetsubtitle: '&fNew balance: &e%balance%'
+betmessage: 'No Bet'
+boosterspawnmessage: '&aBooster has been spawned!'
+combatmessage: '&8|&6&lBlack&e&lTorch&r&8| &4you can not use this command while you are in combat! please wait 5 seconds!'
+higherbetmessage:
+- '&8|&6&lBlack&e&lTorch&r&8| &fYour stake has increased to &e%bet%&f!'
+rankupmessage: '&8|&6&lBlack&e&lTorch&r&8| &fCongratulations! You have been upgraded to %rank%!'
+scoreboardtitle: '&5&lPvP'
+ScoreBoard:
+- '&8&m-------------------------'
+- '&b&lName:'
+- ' &f%player%'
+- '&b&lRank:'
+- ' %rank%'
+- '&b&lStake:'
+- ' &e%bet%'
+- '&8&m-------------------------'
+lobbylocation:
+

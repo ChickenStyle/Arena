@@ -1,0 +1,12 @@
+name: ArenaPlugin
+main: com.chickenstyle.arena.Main
+description: Adds new arena system!
+version: 1.0
+api-version: 1.15
+depend: [Citizens]
+
+commands:
+  arena:
+    description: Arena command!
+  leave:
+    description: Arena leave command!
